@@ -210,19 +210,19 @@ y realizamos lo mismo en el nginx2
 
 ## Imagenes
 
-![Terminal Docker creación de los contenedores](/InformeP2/ImagenDocker1.jpg)
+![Terminal Docker creación de los contenedores](/InformeP2_ServidorWeb/ImagenDocker1.jpg)
 
-![Terminal Docker Copiar el Index](/InformeP2/ImagenDocker4.jpg)
+![Terminal Docker Copiar el Index](/InformeP2_ServidorWeb/ImagenDocker4.jpg)
 
-![Terminal Docker Edicion Primer Index1](/InformeP2/ImagenDocker2.jpg)
+![Terminal Docker Edicion Primer Index1](/InformeP2_ServidorWeb/ImagenDocker2.jpg)
 
-![Terminal Docker Copiar el Index2](/InformeP2/ImagenDocker5.jpg)
+![Terminal Docker Copiar el Index2](/InformeP2_ServidorWeb/ImagenDocker5.jpg)
 
-![Terminal Docker Edición Segundo Index ](/InformeP2/ImagenDocker3.jpg)
+![Terminal Docker Edición Segundo Index ](/InformeP2_ServidorWeb/ImagenDocker3.jpg)
 
-![Figura 1-2. Página modificada en nginx1](/InformeP2/InformacionSuda.jpg)
+![Figura 1-2. Página modificada en nginx1](/InformeP2_ServidorWeb/InformacionSuda.jpg)
 
-![Figura 1-3. Página por defecto en nginx2](/InformeP2/InformacionPersonal.jpg)
+![Figura 1-3. Página por defecto en nginx2](/InformeP2_ServidorWeb/InformacionPersonal.jpg)
 
 ---
 
