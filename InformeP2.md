@@ -237,3 +237,8 @@ González, L. (2022). *Guía práctica de servidores web*. Ediciones Alfaomega.
 Pérez, R. (2021). *Fundamentos de contenedores y virtualización ligera*. Editorial UteQ.
 
 Torres, M. (2020). *Introducción al uso de Linux en la nube*. Universidad Técnica Nacional.
+
+## Audio 
+Link del audio:
+
+[Enalce del Audio](https://drive.google.com/file/d/1ch738boKDMPqpWFWN9tddFldaHfUCUAK/view?usp=sharing)
